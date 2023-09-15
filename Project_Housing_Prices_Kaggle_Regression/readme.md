@@ -1,1 +1,1 @@
-House Prices - Advanced Regression Techniques Kaggle competition: https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+Соревнование на Kaggle: https://www.kaggle.com/c/house-prices-advanced-regression-techniques
