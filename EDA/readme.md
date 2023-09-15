@@ -1,1 +1,1 @@
-Здесь хранятся домашние работы по нейронным сетям
+Проект по Netflix (Exploratory Data Analysis)
