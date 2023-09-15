@@ -1,1 +1,1 @@
-Проект по Netflix (Exploratory Data Analysis)
+Проект по Netflix (Exploratory Data Analysis).
